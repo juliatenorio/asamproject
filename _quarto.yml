@@ -11,12 +11,12 @@ website:
         href: about.qmd
         
     right: 
-      - text: Education (Julia): 
+      - text: Education (Julia)
       - menu: 
-        text: Interview Transcripts 
-        href: interviewmom.qmd 
+          - text: Interview Transcripts 
+          - interviewmom.qmd 
 
 format:
   html:
-    theme: journal
+    theme: sandstone
     toc: true

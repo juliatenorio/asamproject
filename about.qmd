@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: Headshot1 copy.JPG
+#image: Headshot1 copy.JPG
 toc: false
 about:
   template: trestles

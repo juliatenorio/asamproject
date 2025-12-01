@@ -1,0 +1,13 @@
+---
+title: "ASAM135B Project"
+# image: Headshot1 copy.JPG
+toc: false
+about:
+  template: jolla
+  image-shape: round
+  image-width: 17em
+---
+
+Hello! This website demonstrates our family history and roots, which teach us more about our heritage in the Philippines through interview transcripts and image documentation. \n 
+
+My name is Julia Aceron, and I centered my project around education in the Philippines. I conducted two interviews; one with my mom and one with my tita. My mom grew up in the Philippines and attended a public school near her province. On the other hand, my tita moved to the U.S. for her high school education, and then went to university in Manila. My documentation demonstrates the similarities and differences between these two experiences. 
