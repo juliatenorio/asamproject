@@ -9,6 +9,12 @@ website:
         href: index.qmd
       - text: "About"
         href: about.qmd
+        
+    right: 
+      - text: Education (Julia): 
+      - menu: 
+        text: Interview Transcripts 
+        href: interviewmom.qmd 
 
 format:
   html:

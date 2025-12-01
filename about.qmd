@@ -1,0 +1,25 @@
+---
+title: "About"
+image: Headshot1 copy.JPG
+toc: false
+about:
+  template: trestles
+  image-shape: round
+  image-width: 17em
+---
+
+## Introduction
+
+Hello! My name is Julia Aceron, and my ASAM project is centered around education in the Philippines! Here is some background information about my topic:
+
+## Project Layout 
+
+Topic: U.S. influence on the Education System in the Philippines \n
+
+Project Proposal: Conduct an interview with an individual(s) that has had experience with having a post-secondary education in the Philippines and create a website that demonstrates family history and roots. \n   
+
+Key Questions: 
+What is the impact on the education in the Philippines with U.S. influences? 
+What are the main goals of having the U.S. oversee Filipino education? 
+How accessible is education for Filipino families of different socioeconomic backgrounds? What kind of educational systems are there in the Philippines? 
+How does having education in the Philippines affect views/perspectives on the U.S. once people immigrate there? 
