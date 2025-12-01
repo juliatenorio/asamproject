@@ -2,3 +2,4 @@ IMG_1701.jpeg filter=lfs diff=lfs merge=lfs -text
 IMG_1702.jpeg filter=lfs diff=lfs merge=lfs -text
 IMG_0812.PNG filter=lfs diff=lfs merge=lfs -text
 IMG_1700.jpeg filter=lfs diff=lfs merge=lfs -text
+Headshot[[:space:]]1[[:space:]]copy[[:space:]]2.JPG filter=lfs diff=lfs merge=lfs -text
